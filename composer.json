@@ -1,0 +1,26 @@
+{
+  "name": "Ritvik1512/PHP-http-client",
+  "type": "library",
+  "description": "Basic HTTP client developed solely for talking with APIs in PHP",
+  "homepage": "https://github.com/Ritvik1512/PHP-http-client",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ritvik Choudhary",
+      "email": "ritvik@outlook.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "HttpClient\\": "lib/",
+      "HttpClientTest\\": "tests/lib/"
+    }
+  }
+}
