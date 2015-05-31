@@ -1,4 +1,4 @@
 Generic PHP-HTTP-Client
 ===================
-> A basic HTTP client developed for talking with APIs solely in PHP.
->Developed by Ritvik Choudhary
+A basic HTTP client developed for talking with APIs solely in PHP.
+Developed by Ritvik Choudhary
